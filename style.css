@@ -1,4 +1,48 @@
 body{
     background-color: burlywood;
+
+}
+.notes{
+    float: inline;
+    margin: 20px;
+}
+.first {
+    background-color: rgb(184, 236, 11);
+    width: 50px;
+    
+}
+.second {
+    background-color: rgb(222, 223, 218);
+    width: 50px;
+    
+}
+.third {
+    background-color: rgb(184, 236, 11);
+    width: 50px;
+    
+}
+.fourth {
+    background-color: rgb(184, 236, 11);
+    width: 50px;
+    
+}
+.fifth {
+    background-color: rgb(184, 236, 11);
+    width: 50px;
+    
+}
+.sixth {
+    background-color: rgb(184, 236, 11);
+    width: 50px;
+    
+}
+.seventh {
+    background-color: rgb(184, 236, 11);
+    width: 50px;
+    
+}
+.eighth {
+    background-color: rgb(184, 236, 11);
+    width: 50px;
     
 }
